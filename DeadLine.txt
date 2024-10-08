@@ -15,9 +15,9 @@ Cahier des Charges :
 Projet : 
 	- Build Minecraft.
 	- Un commerce en ligne.
-	- Coaching Jeux Vidéo (League of Legend , Minecraft PVP, Rocket Ligue , CSGO ).
+	- [Coaching Jeux Vidéo (League of Legend , Minecraft PVP, Rocket Ligue , CSGO ).] <- Note Sujet.
 	- Crypto Monnaie.
-	- 
+
 
 
  
