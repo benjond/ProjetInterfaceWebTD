@@ -1,23 +1,22 @@
-À rendre  avant le 26 Octobre 2024 : Le Site Complet sur GitHub
+\ À rendre  avant le 26 Octobre 2024 : Le Site Complet sur GitHub /
 
 Groupe 3.
 
+Projet : 
+	- [Coaching Jeux Vidéo (League of Legend , Minecraft PVP, Rocket League , CSGO, Valorant, Fortnite,  ).] <- Notre Sujet.
+
 
 Cahier des Charges :
-- 4 pages
-- Pas de plagia (On ne recopie pas les sites d'autres personnes)
-- Pas de Boostrap ( ! )
-- Pas de framework
-- Du javascript si l'ont désire.
-
-	
-
-Projet : 
-	- Build Minecraft.
-	- Un commerce en ligne.
-	- [Coaching Jeux Vidéo (League of Legend , Minecraft PVP, Rocket Ligue , CSGO ).] <- Note Sujet.
-	- Crypto Monnaie.
+	- 4 pages
+	- Pas de plagia (On ne recopie pas les sites d'autres personnes)
+	- Pas de Boostrap ( ! )
+	- Pas de framework ( ! )
+	- Du javascript si l'ont désires.
 
 
+À faire : 
+	- Ajouts de flex box
+	- Ajouts de logo
+	- Feuille de Styles pour toutes les pages (Polices d'écritures, Couleurs)
 
  
