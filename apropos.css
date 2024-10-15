@@ -1,0 +1,30 @@
+#contact {
+    padding: 20px;
+    margin-top: 5px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    border: 5px solid #0B2545;
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #134074;
+    width: 95%;
+}
+
+#contact input {
+    margin: 5px 0;
+    color: #000;
+}
+
+#contact button {
+    margin: 5px 0;
+    color: #000;
+    background-color: #13315c;
+    border: 2px solid #0B2545;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+    color: white
+}
