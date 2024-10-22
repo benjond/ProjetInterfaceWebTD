@@ -1,0 +1,120 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 0px;
+    background: linear-gradient(180deg,#000875,#220247, #000000); /* À voir */
+    margin: 0;
+    box-sizing: border-box;
+}
+
+footer{
+    background-color: #868383;
+    display: flex;
+    padding: 0px;
+    height: 50px;
+    position: sticky;
+    justify-content: center;
+    align-items:center;
+}
+
+
+#BarNavigation{
+    z-index: 1;
+    top:0;
+    padding: 0px;
+    background-color: #8f89dd; /* À voir */
+    position: sticky;
+    display: flex;
+    height: 80px;
+    align-items: center;
+}
+
+.head-pan{
+    align-items: center;
+
+}
+.container {
+    max-width: 500px;
+    margin: auto;
+    background: rgb(105, 19, 113);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.boite {
+    background-color: rgb(134, 93, 153);
+    border-radius: 10px;
+    max-width: 500px;
+    box-shadow: 6px 4px #474747
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(105, 19, 113);
+}
+.testa{
+    position: relative;
+    align-items: right;
+}
+.image-offre {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+ .image-offre img {
+    width: 100px;
+    height: 100px;
+    margin-right: 15px;
+    border-radius: 10%;
+}
+
+ .supprimer-article {
+    align-items: right;
+    display: block;
+    width: 50%;
+    padding: 10px;
+    background-color: #2885a7;
+    box-shadow: 6px 4px #474747;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 1.2em;
+    cursor: pointer;
+ }
+
+ .supprimer-article:hover {
+    background-color: #3b2188;
+}
+
+.offre-details {
+    flex-grow: 1;
+}
+
+
+
+.total {
+    text-align: right;
+    max-width: 400px;
+    font-size: 1.2em;
+    margin-top: 20px;
+    border-radius: 10px;
+    background-color: rgb(134, 93, 153);
+}
+
+.valide-button {
+    display: block;
+    align-items: center;
+    max-width: 400px;
+    padding: 10px;
+    background-color: #2885a7;
+    color: white;
+    box-shadow: 6px 6px #474747;
+    border-radius: 8px;
+    font-size: 1.2em;
+    cursor: pointer;
+}
+
+.valide-button:hover {
+    background-color: #3b2188;
+}
