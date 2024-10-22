@@ -77,6 +77,14 @@ footer{
     height: 15vw;
 }
 
+#logo{
+    position:absolute;
+    justify-items: center;
+    align-items: center;
+    height: 100px;
+    width: 100px;
+}
+
 #PopUp{
     z-index: 4;
     display: none;
