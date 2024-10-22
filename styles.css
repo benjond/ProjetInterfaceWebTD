@@ -6,9 +6,17 @@
 }
 
 body{
-    background: linear-gradient(180deg,#000875,#220247, #000000); /* À voir */
+    /*background: linear-gradient(180deg,#000875,#220247, #000000);*/
+    background-size:cover;
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+}
+
+.BackGround{
+    background-image: url("Img/BackGroundSite.png");
+    background-position:center;
+    background-size: 110em;
     box-sizing: border-box;
 }
 
