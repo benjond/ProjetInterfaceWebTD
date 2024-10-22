@@ -1,0 +1,55 @@
+* {
+    font-family: "Play", sans-serif; /* À voir */
+    font-weight: 400;
+    font-style: normal;
+    color: white; /* À voir */
+}
+
+
+#BarNavigation{
+    z-index: 1;
+    top:0;
+    padding: 0px;
+    background-color: #8f89dd; /* À voir */
+    position: sticky;
+    display: flex;
+    height: 80px;
+    align-items: center
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    max-width: 1200px;
+    margin: 0 auto;
+    list-style-type: none;
+}
+nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    padding: 100px;
+}
+
+body{
+    background: linear-gradient(180deg,#000875,#220247, #000000); /* À voir */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body>a{
+    width:5px
+}
+
+body img{
+    
+    
+}
+
+
+body img:hover {
+    border-radius: 50px;
+}
