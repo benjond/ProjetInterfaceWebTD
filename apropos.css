@@ -20,7 +20,7 @@
 
 #contact button {
     margin: 5px 0;
-    color: #000;
+
     background-color: #13315c;
     border: 2px solid #0B2545;
     border-radius: 5px;
@@ -38,4 +38,8 @@ footer {
     padding: 10px 0;
     border-top: 2px solid #134074;
     margin-top: auto;
+}
+#contact textarea {
+    margin: 5px 0;
+    color: #000;
 }
