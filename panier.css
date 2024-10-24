@@ -23,7 +23,7 @@ footer{
     background-color: #8f89dd; /* À voir */
     position: sticky;
     display: flex;
-    height: 80px;
+    height: 100px;
     align-items: center;
 }
 
@@ -41,6 +41,7 @@ footer{
 }
 
 .boite {
+    
     background-color: rgb(134, 93, 153);
     border-radius: 10px;
     max-width: 500px;
