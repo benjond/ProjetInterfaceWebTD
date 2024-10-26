@@ -103,10 +103,12 @@ video {
 
 .text h1{
     font-size: 75px;
+    font-family:'Arial';
 }
 
 .text h2{
     font-size: 45px;
+    font-family:'Arial';
 }
 
 .image{
