@@ -155,23 +155,6 @@ header {
     background-color: #5e52f7;
 }
 
-#LeagueOfLegendsPopUp{
-    z-index: 4;
-    display: none;
-    position: fixed;
-    z-index: 4s;
-    background: linear-gradient(180deg,#48e9eb, #210048);
-    border: 2px solid #FFFFFF;
-    padding: 20px;
-    border-radius: 15px;
-    text-align: left;
-    width: 50vw;
-    height: 40vw;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-
 
 #LeagueOfLegendsPopUp{
     z-index: 4;
@@ -359,6 +342,34 @@ header {
         cursor:pointer;
         padding:10px 15px;
     }
+    #LeagueOfLegendsPopUp{
+        width: 70%;
+        height: 80%;
+    }
+    #FortnitePopUp{
+        width: 70%;
+        height: 80%;
+    }
+    #Destiny2PopUp{
+        width: 70%;
+        height: 80%;
+    }
+    #MinecraftPopUp{
+        width: 70%;
+        height: 85%;
+    }
+    #ValorantPopUp{
+        width: 70%;
+        height: 80%;
+    }
+    #CSGOPopUp{
+        width: 70%;
+        height: 80%;
+    }
+    #RocketLeaguePopUp{
+        width: 70%;
+        height: 80%;
+    }
     
 }
 
@@ -388,6 +399,34 @@ header {
         font-size:12px;
         cursor:pointer;
         padding:10px 20px;
+    }
+    #LeagueOfLegendsPopUp{
+        width: 70%;
+        height: 70%;
+    }
+    #FortnitePopUp{
+        width: 70%;
+        height: 70%;
+    }
+    #Destiny2PopUp{
+        width: 70%;
+        height: 70%;
+    }
+    #MinecraftPopUp{
+        width: 70%;
+        height: 70%;
+    }
+    #ValorantPopUp{
+        width: 70%;
+        height: 70%;
+    }
+    #CSGOPopUp{
+        width: 70%;
+        height: 70%;
+    }
+    #RocketLeaguePopUp{
+        width: 70%;
+        height: 70%;
     }
 
 }
