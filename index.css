@@ -144,13 +144,13 @@ video {
     transform: scale(1.1);
 }
 .premiere_image p{
-    margin-left:30px;
+    margin-left:50%;
 }
 .deuxieme_image p{
-    margin-left:30px;
+    margin-left:50%;
 }
 .troisieme_image p{
-    margin-left:30px;
+    margin-left:50%;
 }
 footer{
     color:white;
