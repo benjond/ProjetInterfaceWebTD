@@ -7,10 +7,13 @@
 
 
 header {
-    z-index: 1;
-    background-color: #000000;
+    background-color: #000;
     color: #fff;
-    padding: 10px 0;
+    padding: 20px 0;
+    position: sticky;  
+    top: 0%;       
+    width: 100%;     
+    z-index: 1000;
 }
 
 .header-style {
@@ -25,7 +28,6 @@ header {
 
 
 .logo {
-    text-decoration: none;
     font-size: 24px;
     font-weight: bold;
 }
