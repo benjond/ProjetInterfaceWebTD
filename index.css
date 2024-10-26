@@ -143,7 +143,9 @@ video {
 .image img:hover {
     transform: scale(1.1);
 }
-
+.premiere_image p{
+    margin-bottom:10px;
+}
 
 footer{
     color:white;
