@@ -138,13 +138,14 @@ video {
     margin-right: 2%;
 }
 
-
-
-
 .image img:hover {
     transform: scale(1.1);
 }
 
+figcaption{
+    margin-left: 20px;
+    color:white;
+}
 
 footer{
     color:white;
