@@ -22,6 +22,7 @@ header {
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 20px;
+    z-index:1000;
 }
 
 
@@ -29,16 +30,19 @@ header {
 .logo {
     font-size: 24px;
     font-weight: bold;
+    z-index:1000;
 }
 
 .nav-bar {
     list-style: none;
     display: flex;
     gap: 20px;
+    z-index:1000;
 }
 
 .nav-bar li {
     position: relative;
+    z-index:1000;
 }
 
 .nav-bar a {
@@ -46,10 +50,12 @@ header {
     color: #fff;
     font-size: 18px;
     padding: 5px 0;
+    z-index:1000;
 }
 
 .nav-bar a:hover {
     color: #382cba;
+    z-index:1000;
 }
 
 
