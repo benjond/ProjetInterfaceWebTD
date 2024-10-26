@@ -145,12 +145,15 @@ video {
 }
 .premiere_image p{
     margin-left:50%;
+    font-family:'Arial';
 }
 .deuxieme_image p{
     margin-left:50%;
+    font-family:'Arial';
 }
 .troisieme_image p{
     margin-left:50%;
+    font-family:'Arial';
 }
 footer{
     color:white;
