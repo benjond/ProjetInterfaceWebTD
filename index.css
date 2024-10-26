@@ -110,6 +110,7 @@ video {
 }
 
 .image{
+    font-size: 10px;
     display: flex;
     color:white;
     text-align:center;
