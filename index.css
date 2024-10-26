@@ -111,6 +111,8 @@ video {
 
 .image{
     display: flex;
+    color:white;
+    text-align:center;
 }
 
 .image img{
@@ -139,10 +141,6 @@ video {
     transform: scale(1.1);
 }
 
-p{
-    color:white;
-    text-align:center;
-}
 
 footer{
     color:white;
