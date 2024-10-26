@@ -146,7 +146,12 @@ video {
 .premiere_image p{
     margin-bottom:10px;
 }
-
+.deuxieme_image{
+    margin-bottom:10px;
+}
+.troisieme_image{
+    margin-bottom:10px;
+}
 footer{
     color:white;
     background-color: #000000;
