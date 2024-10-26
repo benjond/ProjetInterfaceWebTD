@@ -142,7 +142,7 @@ video {
     transform: scale(1.1);
 }
 
-figcaption{
+.premiere_image figcaption{
     margin-left: 50px;
     color:white;
 }
