@@ -6,70 +6,101 @@
     <link rel="stylesheet" href="panier.css">
     <title>Panier</title>
     </head>
+    <body>
+
     <header>
-        <nav id="BarNavigation">
-        <ul>
-            <a href="index.html">Accueil</a>
-            <a href="boutique.html">Boutique</a>
-            <a href="panier.html">Panier</a>
-            <a href="propos.html">À propos</a>
-        </ul>
-</header>
-<body>
-        <div class="container">
-        <div class="head-pan">
-        <h1>Mon Panier</h1>
-    </div>
-        <div class="boite">
-        <div class="image-offre">
-            <img src="" alt="Article 1">
-            <div class="offre-details">
-                <h2>Article 1</h2>
-                <p>Prix: 19,99 €</p>
-                <div class="testa">
-                    <button class="supprimer-article">supprimer l'article</button>
+        <nav>
+            <a href="#">Accueil</a>
+            <a href="#">Boutique</a>
+            <a href="#">Panier</a>
+            <a href="#">À propos</a>
+        </nav>
+    </header>
+
+    <main>
+        <section class="panier">
+            <h1>Mon panier</h1>
+
+            <div class="services">
+                <div class="service">
+                    <div class="service-info">
+                        <img src="c:\Users\Elève\Pictures\Saved Pictures\destiny2.webp" alt="destiny2">
+                        <div>
+                            <p>La Formation Destiny 2</p>
+                            
+                        </div>
                     </div>
-                
-            </div>
-        </div>
-    </div>
-    <button class="supprimer-article">supprimer l'article</button>
-        <div class="boite">
-        <div class="image-offre">
-            <img src="c:\Users\Elève\Pictures\Saved Pictures\mario.jpg" alt="Article 2">
-            <div class="offre-details">
-                <h2>Article 2</h2>
-                <p>Prix: 29,99 €</p>
-                
-            </div>
-        </div>
-        </div>
-        <button class="supprimer-article">supprimer l'article</button>
-        <div class="boite">
-        <div class="image-offre">
-            <img src="c:\Users\Elève\Pictures\Saved Pictures\mario.jpg" alt="Article 3">
-            <div class="offre-details">
-                <h2>Article 3</h2>
-                <p>Prix: 15,49 €</p>
-                
-            </div>
-        </div>
-    </div>
-    <button class="supprimer-article">supprimer l'article</button>
-        
-        <div class="total">
-            <h2>Total: 65,47 €</h2>
-        </div>
-    
-        <div class="valide-boutton">
-        <button class="valide-button">Valider la commande</button>
-    </div>
-    </div>
+                    <div class="service-value">
+                        <input type="number" value="1" min="1">
+                        <p>17.99€</p>
+                        <div class="bouton ">
+                            <p>Supprimer</p>
+                        </div> 
+                    </div>
+                </div>
 
+                <div class="service">
+                    <div class="service-info">
+                        <img src="c:\Users\Elève\Pictures\Saved Pictures\Minecraft-creeper-face.jpg" alt="minecraft">
+                        <div>
+                            <p>La Formation Minecraft</p>
+                            
+                        </div>
+                    </div>
+                    <div class="service-value">
+                        <input type="number" value="1" min="1">
+                        <p>39.99€</p>
+                        <div class="bouton ">
+                            <p>Supprimer</p>
+                    </div>
+                </div>
+                </div>
 
+                <div class="service">
+                    <div class="service-info">
+                        <img src="c:\Users\Elève\Pictures\Saved Pictures\league.jpg" alt="League of legend">
+                        <div>
+                            <p>La Formation League Of Legend</p>
+                            
+                        </div>
+                    </div>
+                    <div class="service-value">
+                        <input type="number" value="1" min="1">
+                        <p>59.99€</p>
+                    
+                    <div class="bouton ">
+                        <p>Supprimer</p>
+                    </div>
+                </div>
+                </div>
+            </div>
+
+            <div class="regler-achat">
+                <a href="#">Régler mes achats:</a>
+            </div>
+
+            <div class="le-total">
+                <div class="vrai-total">
+                    <p>Formations: <span>117,97 €</span></p>
+                    <p>Réduction: <span>5 €</span></p>
+                    <hr>
+                    <p>Total: <span>112.97 €</span></p>
+                    <button>Valider ma commande</button>
+                </div>
+                <div class="reduc-code">
+                    <input type="text" placeholder="Mon bon de réduction">
+                    <button>Ajouter</button>
+                </div>
+                <div class="idee-section">
+                    <p>Des idées de formations ? Contactez-nous au : 01.02.03.04.05</p>
+                    <p> Ou envoyez-nous un email dans la page "À propos"</p>
+                </div>
+            </div>  
+        </section>
+    </main>
+
+</body>
 <footer>
-    <p style="text-align: center;">&copy; Demling Alexandre 2024 - Aucun droits réservés mdr</p>
+    <p style="text-align: center;">&copy; Demling Alexandre 2024 </p>
 </footer>
-    </body>
-
 </html>
