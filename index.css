@@ -109,9 +109,6 @@ video {
     font-size: 45px;
 }
 
-
-
-
 .image{
     display: flex;
 }
@@ -140,6 +137,11 @@ video {
 
 .image img:hover {
     transform: scale(1.1);
+}
+
+p{
+    color:white;
+    text-align:center;
 }
 
 footer{
