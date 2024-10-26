@@ -6,32 +6,51 @@
 }
 
 
-#BarNavigation{
+header {
     z-index: 1;
-    top:0;
-    padding: 0px;
-    background-color: #8f89dd; /* À voir */
-    position: sticky;
-    display: flex;
-    height: 80px;
-    align-items: center
+    background-color: #000000;
+    color: #fff;
+    padding: 10px 0;
 }
 
-nav ul {
+.header-style {
     display: flex;
-    justify-content: space-between;
     align-items: center;
-    padding: 1rem;
+    justify-content: space-between;
     max-width: 1200px;
     margin: 0 auto;
-    list-style-type: none;
+    padding: 0 20px;
 }
-nav a {
+
+
+
+.logo {
     text-decoration: none;
-    color: #333;
+    font-size: 24px;
     font-weight: bold;
-    padding: 100px;
 }
+
+.nav-bar {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+.nav-bar li {
+    position: relative;
+}
+
+.nav-bar a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    padding: 5px 0;
+}
+
+.nav-bar a:hover {
+    color: #382cba;
+}
+
 
 body{
     margin: 0;
